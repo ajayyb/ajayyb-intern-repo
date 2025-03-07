@@ -7,4 +7,4 @@ What customizations (if any) did you make?
 - None
 
 What was the most useful command you learned today?
-- echo  
+- echo

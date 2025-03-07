@@ -20,3 +20,12 @@ empty separator line
 empty separator line
 <optional footer>
 
+What makes a good commit message?
+- Clear, concise (not too vague or overly complex)
+- Convetional commit format is clear and concise, where more information can be provided if required (optional body section)
+
+How does a clear commit message help in team collaboration?
+- Allows other collaborators to understand the change made and easily categoriese what type of change is being made
+- Allows for better porject tracking as clear logs of each commit makes it easier to understand the reason for each commit
+- Reduces overall confusion as each commit is not vague 
+

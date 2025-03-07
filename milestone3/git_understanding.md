@@ -29,3 +29,7 @@ How does a clear commit message help in team collaboration?
 - Allows for better porject tracking as clear logs of each commit makes it easier to understand the reason for each commit
 - Reduces overall confusion as each commit is not vague 
 
+What did you learn from reviewing an open-source PR?
+- The collaboration in each commit and the approach users have when adding/reviewing PRs
+- The communication through each commit and PR
+- Discussion had within each commit and PR (shows comments and discussion between team members and how they are addressed constructively) 

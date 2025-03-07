@@ -11,3 +11,12 @@ What makes a well-structured PR?
 What did you learn from reviewing an open-source PR?
 - Each PR is detailed and specific, it addressed the changes made without overly complicating or being too brief 
 - Also generally has a accompanied description which details why the changes were made 
+
+Writing Meaningful Commit Messages #45
+- Commit format:
+<type>(<optional scope>): <description>
+empty separator line
+<optional body>
+empty separator line
+<optional footer>
+
